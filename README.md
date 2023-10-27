@@ -1,4 +1,4 @@
-# SQL Queries
+# SQL Queries (learn)git
 
 ## Learning Goals
 
